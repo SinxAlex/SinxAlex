@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinxAlex
 - 👀 I’m interested in PHP coding
-- 🌱 I’m currently learning node.js, C++
+
 
 
 <!---
